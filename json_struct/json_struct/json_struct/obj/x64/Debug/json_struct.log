@@ -1,0 +1,22 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '192.168.79.137'
+  Starting remote build
+  Compiling sources:
+  cJSON_ENCONDING.c
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Application Type\Linux\1.0\Linux.targets(259,5): warning : command line option ‘-fthreadsafe-statics’ is valid for C++/ObjC++ but not for C [enabled by default]
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Application Type\Linux\1.0\Linux.targets(259,5): warning : command line option ‘-frtti’ is valid for C++/ObjC++ but not for C [enabled by default]
+C:\Users\Administrator\Desktop\json_struct\json_struct\json_struct\cJSON_ENCONDING.c(23,2): warning : conversion to ‘float’ alters ‘double’ constant value [-Wconversion]
+C:\Users\Administrator\Desktop\json_struct\json_struct\json_struct\cJSON_ENCONDING.c(276,26): warning : conversion to ‘float’ from ‘double’ may alter its value [-Wconversion]
+C:\Users\Administrator\Desktop\json_struct\json_struct\json_struct\cJSON_ENCONDING.c(308,12): warning : conversion to ‘unsigned int’ from ‘time_t’ may alter its value [-Wconversion]
+C:\Users\Administrator\Desktop\json_struct\json_struct\json_struct\cJSON_ENCONDING.c(316,17): warning : conversion to ‘char’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\Administrator\Desktop\json_struct\json_struct\json_struct\cJSON_ENCONDING.c(319,17): warning : conversion to ‘char’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\Administrator\Desktop\json_struct\json_struct\json_struct\cJSON_ENCONDING.c(322,23): warning : conversion to ‘size_t’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+C:\Users\Administrator\Desktop\json_struct\json_struct\json_struct\cJSON_ENCONDING.c(325,17): warning : conversion to ‘char’ from ‘int’ may alter its value [-Wconversion]
+C:\Users\Administrator\Desktop\json_struct\json_struct\json_struct\cJSON_ENCONDING.c(515,18): warning : conversion to ‘int’ from ‘size_t’ may alter its value [-Wconversion]
+C:\Users\Administrator\Desktop\json_struct\json_struct\json_struct\cJSON_ENCONDING.c(707,17): warning : conversion to ‘int’ from ‘size_t’ may alter its value [-Wconversion]
+  main.c
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Application Type\Linux\1.0\Linux.targets(259,5): warning : command line option ‘-fthreadsafe-statics’ is valid for C++/ObjC++ but not for C [enabled by default]
+D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Application Type\Linux\1.0\Linux.targets(259,5): warning : command line option ‘-frtti’ is valid for C++/ObjC++ but not for C [enabled by default]
+  Linking objects
+  json_struct.vcxproj -> C:\Users\Administrator\Desktop\json_struct\json_struct\json_struct\bin\x64\Debug\json_struct.out

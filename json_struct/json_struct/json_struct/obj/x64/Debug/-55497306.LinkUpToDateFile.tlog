@@ -1,0 +1,1 @@
+g++ -o "/home/itcast/projects/json_struct/bin/x64/Debug/json_struct.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/itcast/projects/json_struct/obj/x64/Debug/cJSON.o /home/itcast/projects/json_struct/obj/x64/Debug/cJSON_ENCONDING.o /home/itcast/projects/json_struct/obj/x64/Debug/main.o
